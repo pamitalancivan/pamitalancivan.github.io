@@ -1,29 +1,37 @@
-*{margin: 0;padding: 0}
 body{
 	background-color: #292F33
 	padding-top: 30px;
 }
-.Form-container{
+.container{
 	width: 250px;
-	height: auto;
+	height: 250px;
 	padding: 40px 30px;
 	background-color:#fff;
 	border-radius: 10px;
 	box-shadow: 0 0 10px 0 #000;
-	margin:auto;
-	position: relative;
+	margin-top: 100px;
+	margin-left:500px;
+	text-align: center;
+	
 }
-ul.list{
+.list{
 list-style-type: none;
 text-align: center;
+margin:auto;
+}
+.list input{
+margin-bottom: 10px;
+width: 60%;
+height: 30px;
+
 
 }
-ul.list li{
+div{
 width: 250px;
 margin-bottom: 15px;
 
 }
-ul .list li input{
+div input{
 	width: 250px;
 	text-align: center;
 	padding:  8px 0px;
@@ -31,10 +39,10 @@ ul .list li input{
 	background-color: #d3d3d3;
 	border-radius: 5px;
 }
-ul .list li input[type="button"]{
+div input[type="button"]{
 	background-color: #4690fb;
 	color: #fff;
 }
-ul .list li:nth-child(5){
+div:nth-child(5){
 	color: red;
 }

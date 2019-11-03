@@ -1,4 +1,8 @@
 body{
+	background-color: #292F33
+	margin:auto;
+}
+body{
 	margin: 0;
 	padding: 0;
 	background-size: cover;
@@ -9,6 +13,12 @@ body{
 	flex-direction: column;
 	line-height: 1.5;
 	width: auto;
+}
+.container1{
+	background-color: #292F33;
+	text-align: center;
+	margin: auto;
+	color: white;
 }
 
 a{
