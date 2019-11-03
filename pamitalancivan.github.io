@@ -1,4 +1,10 @@
-[33mcommit 951c9dcf83cc636d14572b355fc436db55ec678f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[33mcommit 763d0d77ddff338f00b8b12643c887d2956d2442[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: pamitalancivan <pamitalancivan@yahoo.com>
+Date:   Sun Nov 3 08:54:57 2019 +0700
+
+    Last added
+
+[33mcommit 951c9dcf83cc636d14572b355fc436db55ec678f[m
 Author: pamitalancivan <pamitalancivan@yahoo.com>
 Date:   Sun Nov 3 08:53:08 2019 +0700
 
