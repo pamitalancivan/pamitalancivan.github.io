@@ -1,4 +1,7 @@
-
+body{
+	background-color: #292F33
+	margin:auto;
+}
 body{
 	margin: 0;
 	padding: 0;
@@ -15,7 +18,9 @@ body{
 	background-color: #292F33;
 	text-align: center;
 	margin: auto;
-	color: white;
+	color: #000080;
+	font-weight: bold;
+	font-size: 40px;
 }
 
 a{
@@ -63,8 +68,19 @@ header{
 }
 .container{
 	height: 560px;
-	color: white;
+	width: 1500px;
+	color: #000080;
+	margin: auto;
 	text-align: center;
+	background-color: #000080;
+
+
+}
+.text-left{
+	margin-top: 200px;
+	color: white;
+	font-weight: bold;
+	font-size: 50px;
 
 }
 footer{
