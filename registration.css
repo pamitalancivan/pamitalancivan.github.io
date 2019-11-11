@@ -1,0 +1,107 @@
+body{
+	background-color: white;
+	}
+
+.container{
+	width: 400px;
+	height: 600px;
+	padding: auto;
+	background-color:#fff;
+	box-shadow: 0 0 10px 0 #000;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-left:auto;
+	text-align: center;
+}
+footer{
+	margin-top: auto;
+	height: 60px;
+	text-align: center;
+	background-color: grey;
+}
+.footer{
+	color: white;
+}
+.black{
+list-style-type: none;
+text-align: center;
+margin:auto;
+}
+.black input{
+margin-bottom: 10px;
+width: 300px;
+height: 30px;
+text-align: center;
+
+
+}
+.header{
+	text-align: center;
+	background-color: #00A1F1;
+	padding: 1px;
+	margin-bottom: 30px;
+	width: 400px;
+	margin-left: -50px;
+}
+div{
+width: 300px;
+margin-bottom: 15px;
+
+}
+div input{
+	width: 250px;
+	text-align: center;
+	padding:  8px 0px;
+	border:none;
+	background-color: #d3d3d3;
+	border-radius: 5px;
+}
+div input[type="button"]{
+	background-color: #4690fb;
+	color: #fff;
+}
+div:nth-child(5){
+	color: red;
+}
+/**Contactus**/
+body{
+	background-color: blue;
+}
+
+  .container-fluid {
+    padding: 100px 100px;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    background-color: white;
+  }
+  .bg-grey {
+    background-color: #f6f6f6;
+    text-align: center;
+    padding: auto;
+     background-color: white;
+    
+  }
+.pull-right{
+	background-color: white;
+}
+.col-sm-5{
+	font-weight: bold;
+	font-size: 20px;
+}
+.col-sm-7{
+	font-size: 10px;
+}
+textarea{
+	text-align: center;
+	 padding: auto;
+	 margin:auto;
+	 height: 110px;
+	 width:300px;
+}
+.me{
+	font-size: 20px;
+}
+.btn{
+	font-size: 20px;
+}

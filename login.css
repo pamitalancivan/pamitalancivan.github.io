@@ -4,13 +4,14 @@ body{
 }
 .container{
 	width: 250px;
-	height: 250px;
+	height: 300px;
 	padding: 40px 30px;
 	background-color:#fff;
 	border-radius: 10px;
 	box-shadow: 0 0 10px 0 #000;
 	margin-top: 100px;
-	margin-left:500px;
+	margin-right: auto;
+	margin-left:auto;
 	text-align: center;
 	
 }
@@ -26,6 +27,7 @@ height: 30px;
 
 
 }
+
 div{
 width: 250px;
 margin-bottom: 15px;
